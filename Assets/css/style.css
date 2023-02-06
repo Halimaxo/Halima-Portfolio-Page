@@ -1,0 +1,28 @@
+.about-me {
+    display:flex;
+    padding: 5px;
+
+}
+
+.avatar img{
+    width: 50%;
+}
+
+.about-me-text {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.projects {
+    display:flex;
+    justify-content: space-around;
+    border: 2px solid black;
+}
+
+.project {
+    border: 2px solid black;
+}
+
+.project-1 {
+    background-color: green;
+}
